@@ -4,7 +4,7 @@
 
 졸업논문 작성 및 대한 산업 공학회 추계 학술대회 논문집 등재</br></br>
 [유튜브 자막을 이용한 해시태그 생성기](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=dd20bcec7f746361d18150b21a227875&keyword=%EC%9C%A0%ED%8A%9C%EB%B8%8C%20%EC%9E%90%EB%A7%89%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%ED%95%B4%EC%8B%9C%ED%83%9C%EA%B7%B8%20%EC%83%9D%EC%84%B1%EA%B8%B0)</br></br>
-👋 My role: 데이터 수집, 기존 검색 알고리즘 자료조사, Textrank 적용 등
+👋 My role: 데이터 수집, 기존 검색 알고리즘 자료조사, 알고리즘 적용 등
 </br></br>
 
 
